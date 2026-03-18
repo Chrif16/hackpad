@@ -18,3 +18,4 @@ i used QMK's firmware, this proved to be the most confusing hardest part of the 
 1x XIAO RP2040
 1x Case (2 3d printed parts)
 4x Cherry MX Switches(or any switch as long as it works)
+4x screws (optional)
