@@ -1,0 +1,27 @@
+{
+    "manufacturer": "Chrif",
+    "keyboard_name": "chrifs_hackpad",
+    "maintainer": "chrif",
+    "bootloader": "rp2040",
+    "processor": "RP2040",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0001",
+        "vid": "0xFEED"
+    },
+    "matrix_pins": {
+        "rows": ["GP1", "GP2", "GP4", "GP3"],
+        "cols": ["GP26"]
+    },
+    "diode_direction": "COL2ROW",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [1, 0], "x": 0, "y": 1 },
+                { "matrix": [2, 0], "x": 0, "y": 2 },
+                { "matrix": [3, 0], "x": 0, "y": 3 }
+            ]
+        }
+    }
+}
