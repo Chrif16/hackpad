@@ -1270,6 +1270,10 @@
 		(color 0 0 0 0)
 		(uuid "ed01a4b4-f3f0-42ef-ac4c-d2131c636e62")
 	)
+	(no_connect
+		(at 113.03 137.16)
+		(uuid "ca41cbfd-b8e2-4bc9-98ad-ae1108c207d3")
+	)
 	(wire
 		(pts
 			(xy 121.92 121.92) (xy 121.92 175.26)
@@ -1914,7 +1918,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI E"
 			(at 118.11 133.2798 0)
 			(effects
 				(font
@@ -1922,7 +1926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Library:LED_SK6812-E"
 			(at 106.68 144.78 0)
 			(effects
 				(font
@@ -2362,7 +2366,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI E"
 			(at 91.44 133.2798 0)
 			(effects
 				(font
@@ -2370,7 +2374,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Library:LED_SK6812-E"
 			(at 80.01 144.78 0)
 			(effects
 				(font
