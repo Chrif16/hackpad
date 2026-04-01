@@ -7,8 +7,9 @@ here's what it looks like:
 <img width="1915" height="1019" alt="Screenshot 2026-03-18 105010" src="https://github.com/user-attachments/assets/6036c961-84c3-44db-a0ec-eccd22f8f7f3" />
 i made it in fusion 360 about a month ago
 # pcb:
-<img width="601" height="744" alt="Screenshot 2026-03-18 111446" src="https://github.com/user-attachments/assets/602d347f-49ca-4135-9dfc-db6545b8ed07" />
-<img width="971" height="670" alt="image" src="https://github.com/user-attachments/assets/74174a37-a0c4-477c-a59d-1382c5db36f3" />
+<img width="587" height="747" alt="image" src="https://github.com/user-attachments/assets/fc26bc5a-7722-4ea0-a1c4-a3c26ad38a93" />
+<img width="900" height="677" alt="image" src="https://github.com/user-attachments/assets/6a5026a4-6799-4262-b64a-fa4fa703a47d" />
+
 
 this is what i came up with i hope it works
 # firmware:
